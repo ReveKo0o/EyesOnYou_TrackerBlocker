@@ -16,7 +16,7 @@ To be completely honest this cannot compete with heavyweights like uBlock Origin
 
 
 ## Does It Work on Firefox?
-Short answer no. Am i gonna do something about it and add support for firefox? :idk rn 
+for now no, but we are working on it to make it compatible with Mozilla 
 
 ## Whitelist Feature (White-listing Sites)
 To give users full control over which websites are blocked, I've added a simple yet effective Whitelist feature.
